@@ -28,3 +28,7 @@ function App() {
   )
 }
 ```
+
+## Preview
+
+![1](./assets/pic.png)
